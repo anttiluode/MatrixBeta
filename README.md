@@ -1,4 +1,4 @@
-# InfiniteZoomFlow: Phase-Locked Fractal AI 🌀
+# InfiniteZoomFlow (Matrix Beta): Phase-Locked Fractal AI 🌀
 
 ![Fractal Zoom](fractalzoom.png)
 
