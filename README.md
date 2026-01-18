@@ -1,6 +1,6 @@
 # InfiniteZoomFlow: Phase-Locked Fractal AI 🌀
 
-![Fractal Zoom](https://raw.githubusercontent.com/anttiluode/MatrixBeta/fractalzoom.png)
+![Fractal Zoom](fractalzoom.png)
 
 
 > **"Not a Blind Painter, but a Lucid Dreamer."**
