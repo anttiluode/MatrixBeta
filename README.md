@@ -9,8 +9,6 @@ InfiniteZoomFlow is a real-time, physics-gated generative AI system. Unlike trad
 
 It locks coherent structures in place while allowing the AI to "dream" only into the voids, creating permanent, navigable worlds rather than fever dreams.
 
-![Demo](https://via.placeholder.com/800x450?text=Infinite+Zoom+Demo+Placeholder)
-
 ## 🚀 Key Features
 
 * **Fractal Viscosity Gating:** A physics-based mask that prevents the AI from overwriting high-complexity textures (objects/roots/faces).
