@@ -2,6 +2,10 @@
 
 ![Fractal Zoom](fractalzoom.png)
 
+EDIT added Matrixvision.py - it uses different image model and is coded a bit different, but still uses 
+the same ideas. The image model can go black due to nsfw found in the generated image. If that happens 
+lift the dream strength and jump through darkness. 
+
 
 > **"Not a Blind Painter, but a Lucid Dreamer."**
 
