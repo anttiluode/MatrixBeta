@@ -18,12 +18,6 @@ These four signals - scene understanding, boundary context, temporal memory, and
 
 The Fractal Viscosity system provides spatial gating, determining *where* the AI should dream (low-structure regions) versus *where* it should preserve (high-structure regions). Combined with semantic steering that determines *what* to dream, the system achieves both spatial and semantic coherence.
 
-Real-world performance shows coherence scores above 0.94 and drift below 0.05, compared to baseline systems where coherence typically degrades to 0.7-0.8 over extended generation. Objects persist for 50+ frames rather than 5-10.
-
-The broader implication extends beyond infinite zoom. Matrix Alpha demonstrates a general pattern: **if models share embedding space, they can share thoughts**. This architecture applies to multi-modal reasoning (vision-language systems thinking together), scientific discovery (generators and physics simulators in closed loops), and hive minds (multiple LLMs with unified representation).
-
-Matrix Alpha proves that the inter-model communication patterns developed in small-scale experiments - Babel Fish for cross-modal alignment, Hierarchical Brain for compositional reasoning, The Alchemist for inverse design - scale to production models. The mechanism is real, the applications are practical, and the path toward more sophisticated multi-model cognition is now empirically validated.
-
 # Rest of the repo: 
 
 ![Fractal Zoom](fractalzoom.png)
