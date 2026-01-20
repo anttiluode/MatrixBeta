@@ -1,5 +1,10 @@
 # InfiniteZoomFlow (Matrix Beta): Phase-Locked Fractal AI 🌀
 
+# EDIT: Added matrix omega that: 
+
+Uses blip to recongize what is in the image and then it uses that in part to generate 
+the next image. 
+
 # EDIT: Added matrix alpha that: #
 
 ## Matrix Alpha: Inter-Model Communication for Stable Generative AI
